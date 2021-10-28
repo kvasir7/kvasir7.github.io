@@ -2,6 +2,6 @@
 
 ### Check back for updates.
 
-[People](./people.md).
+[People](./people.md)
 
 ![Joe Headshot](Headshot.jpg)
