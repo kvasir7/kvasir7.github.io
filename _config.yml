@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Welcome to the Microbial Ecology and Evolution Group homepage!
 description: Feel freee to bookmark this page to be aware of updates.
+
+theme: jekyll-theme-hacker
