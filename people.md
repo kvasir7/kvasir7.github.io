@@ -4,7 +4,7 @@
 
 [Joe Madison's CV](./jmadison_cv_2021.pdf)
 
-![Joe Headshot](Headshot.jpg)
+![Joe Headshot](Headshot_(cropped).jpg)
 
 # Étienne Geoffroy Saint-Hilaire (Honorary Collaborator)
 
