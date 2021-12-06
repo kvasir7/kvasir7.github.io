@@ -6,6 +6,10 @@
 
 ![Joe Headshot](Headshot.jpg)
 
-# Étienne Geoffroy Saint-Hilaire (Honorary Group Member)
+# Étienne Geoffroy Saint-Hilaire (Honorary Collaborator)
 
 ![Geoffroy Headshot](Geoffroy_Saint_Hilaire,_Etienne_cropped.jpg)
+
+# Alan Turing (Honorary Collaborator)
+
+![Turing Headshot](Alan_Turing_az_1930-as_években_(cropped).jpg)
