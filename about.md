@@ -1,15 +1,16 @@
 # Research Program
 
-### The Microbe-host Ecology and Macroevolution (MEME) group is broadly insterested in pattern, process, and form (PPF) at the interface of ecology and macroevolutionary biology. Specifically, this group seeks to delineate and explain contemporary ecological phenomena in the context of macroevolutionary contraints and channels across multiple levels of selection. Ecological PPF involved in microbe-host interactions are of interest in their apparently necessary reflection of channels, constraints, and innovations over geological time. This formalist-centric (yet functionalist inclusive) paradigm uses host-microbe systems that provide a useful framework for addressing questions at multiple levels of temporal and organizational scale. Specific questions the MEME group is interested in include:
+### The Microbe-host Ecology and Macroevolution (MEME) group is broadly insterested in pattern, process, and form (PPF) at the interface of ecology and macroevolutionary biology. Specifically, this group seeks to delineate and explain contemporary ecological phenomena in the context of macroevolutionary contraints and channels across multiple levels of biological organization. Ecological PPF related to microbe-host(mutlicellular organism) interactions are of interest in their apparently necessary reflection of channels, constraints, and innovations over geological time. This formalist-centric (yet functionalist inclusive) paradigm uses microbe-host systems that provide a useful framework for addressing questions at multiple levels of temporal and organizational scale. General areas and specific questions the MEME group takes interest in include:
 
-## Evolutionary Constraint/Channeling and Saltations
+## Evolutionary Constraint/Channeling, Saltations, and Innovation
 
-#### -What constraints/channels do microbial communities impose on development and evolution (EvoDevo) of multicellular organisms? 
-#### -What role do microbial communities have in saltational changes in multicellular organisms' evolution?
-#### -How are constraints/channels altered? And is there feedback from saltations and/or adaptive changes?
+#### -How are constraints/channnels manifested in the ecological interactions of microbes and multicellular organisms?
+#### -What constraints/channels do microbial communities impose on the development and adaptive evolution of multicellular organisms? 
+#### -How are constraints/channels altered?
+#### -What role do microbial communities have in saltations of multicellular organisms?
 #### -How do constraints/channels impart macroevolutionary innovations and novelty?
 
-## Levels of Selection
+## Levels of Action (canonically as the  "levels of selection")
  
 #### -Do answers to the above questions vary by level of biological organization (e.g. gene, organism, group, species, clade)?
 #### -If so, how do they relate? Under what contexts do constraints/channels at different levels dominate?
