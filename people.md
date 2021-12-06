@@ -6,4 +6,6 @@
 
 ![Joe Headshot](Headshot.jpg)
 
+# Étienne Geoffroy Saint-Hilaire (Honorary Group Member)
+
 ![Geoffroy Headshot](Geoffroy_Saint_Hilaire,_Etienne_cropped.jpg)
