@@ -5,3 +5,5 @@
 [Joe Madison's CV](./jmadison_cv_2021.pdf)
 
 ![Joe Headshot](Headshot.jpg)
+
+![Geoffroy Headshot](Geoffroy_Saint_Hilaire,_Etienne_cropped.jpg)
