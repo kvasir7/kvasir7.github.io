@@ -4,17 +4,17 @@
 
 ## Microbes as a means of Evolutionary Constraint, Channeling, and Saltation
 
-### -What constraints/channels on adaptation do microbial communities impose for vertebrate evolution and devlopment (EvoDevo)? 
-### -What constraints/channels on adaptation do vertebrates impose for microbial EvoDevo?
-### -How are microbial communities involved in saltational (nonadaptive) changes in their respective hosts' evolution?
-### -How are vertebrates involved in influencing saltational (nonadaptive) changes among their microbial constituents?
-### -How do constraints/channels impart macroevolutionary innovations and novelty?
+#### -What constraints/channels on adaptation do microbial communities impose for vertebrate evolution and devlopment (EvoDevo)? 
+#### -What constraints/channels on adaptation do vertebrates impose for microbial EvoDevo?
+#### -How are microbial communities involved in saltational (nonadaptive) changes in their respective hosts' evolution?
+#### -How are vertebrates involved in influencing saltational (nonadaptive) changes among their microbial constituents?
+#### -How do constraints/channels impart macroevolutionary innovations and novelty?
 
 ## Levels of Selection
  
-### -Do answers to the above questions vary by level of biological organization (e.g. gene, organism, group, species, clade)?
-### -If so, how do they relate? Under what contexts do constraints/channels at different levels dominate?
+#### -Do answers to the above questions vary by level of biological organization (e.g. gene, organism, group, species, clade)?
+#### -If so, how do they relate? Under what contexts do constraints/channels at different levels dominate?
 
 ## Encompassing the Paleobiological Record
 
-### While our group does not directly study the paleobiological record (yet), we are necessarily interested in how answers to the above questions fit paleobiological data, and vice versa (how paleobiological work might influence our questions and interpretation of results).
+#### While our group does not directly study the paleobiological record (yet), we are necessarily interested in how answers to the above questions fit paleobiological data, and vice versa (how paleobiological work might influence our questions and interpretation of results).
