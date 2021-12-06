@@ -8,7 +8,7 @@
 ### -What constraints/channels on adaptive evolution do vertebrates impose on microbial EvoDevo?
 ### -How are microbial communities involved in saltational changes in their respective hosts' evolution?
 ### -How are vertebrates involved in influencing saltational changes among their microbial constituents?
-### -Can constraints/channels impart macroevolutionary innovations and novelty?
+### -How do constraints/channels impart macroevolutionary innovations and novelty?
 
 ## Levels of Selection
  
