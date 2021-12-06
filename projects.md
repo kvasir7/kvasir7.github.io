@@ -9,9 +9,6 @@
 ## Freshwater Turtles
 ### The freshwatter turtle microbiome project aims to ask ecological questions realting to the bacterial microbiome in the freeshwater turtle Graptemys pseudogeographica along the Upper Missouri River in the United States. The changing environments of rivers create an interesting system for microbial ecology questions of study in these resident aquatic turtles. Questions being asked in this system include how to bacterial microbiomes change along river gradients? How do anthropogenic effectors such as agricultural chemicals and dams alter the host microbiomes? And how do host-associated bacterial microbiomes vary among conspecifics at differnt site along the river (which may help clarify questions realted to host-microbe determinism)?
 
-## Humans and Cancer
-### In addition to the microbial dynamics at the human-rat interface, I also work on aspect of more direct human-microbe interactions in thee context of human diseases such as cancer. Specifically, I am interested in how environments might shape both hosts and evironments in ways that mediate carcinogenesis. Most recently, I have examined the role of epigenetic factors on the host and microbiome, and how some of the bacteria might facultatively invade endometrial cells resulting in carcinogenesis. 
-
 # History and Philosophy of Biology
 
 ## Mass Extinctions
