@@ -6,6 +6,3 @@
 
 ![Joe Headshot](Headshot_(cropped).jpg)
 
-# Étienne Geoffroy Saint-Hilaire (Honorary Collaborator)
-
-![Geoffroy Headshot](Geoffroy_Saint_Hilaire,_Etienne_cropped.jpg)
