@@ -2,7 +2,7 @@
 
 ### The Microbe-host Ecology and Macroevolution (MEME) group is broadly insterested in pattern, process, and form (PPF) at the interface of ecology and macroevolutionary biology. Specifically, this group seeks to delineate and explain contemporary ecological phenomena in the context of macroevolutionary contraints and channels across multiple levels of biological organization. Ecological PPF related to microbe-host(mutlicellular organism) interactions are of particular interest for their necessary reflection of channels, constraints, and innovations over geological time. This formalist-centric (yet functionalist inclusive) paradigm uses microbe-host systems that provide a useful framework for addressing questions at multiple levels of temporal and organizational scale. General areas and specific questions the MEME group takes interest in include:
 
-## Evolutionary Constraints, Adaptations, and Innovation
+## Evolutionary Innovations, Constraints, and Adaptations
 
 #### How do (1) macroevolutionary innovations and (2) constraints on adaptation manifest in contemporary ecological interactions of microbes and multicellular organisms (PPF)?
 
