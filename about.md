@@ -4,9 +4,9 @@
 
 ## Evolutionary Constraints, Adaptations, and Innovation
 
-#### -How do constraints on adaptations and macroevolutionary novelties manifest in contemporary ecological interactions of microbes and multicellular organisms?
+#### -How do (1) macroevolutionary innovations and (2) constraints on adaptation manifest in contemporary ecological interactions of microbes and multicellular organisms?
 
-## Levels of Action (canonically as the  "levels of selection")
+## Levels of Action (canonically as the "levels of selection")
  
 #### -Do answers to the above questions vary by level of biological organization (e.g. gene, organism, group, species, clade)?
 
