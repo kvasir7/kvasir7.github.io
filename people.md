@@ -14,7 +14,7 @@
 
 # Woodhams Lab (Collaborators)
 
-### The Woodhams lab integrates research and education through thhe study of immunological ecology, symbiotic microbiota, and conservation medicine. Their goal is to effectively manage amphibian chytridiomycosis, to understand mechanisms of resilience to disease at the scales of individual, population and landscape, and to develop an amphibian model system for mucosal immunity using vaccination and microbiome manipulation. Similarly, they aim to apply ecological insight toward reducing the risk of mosquito-borne diseases. They are also interested in novel biotherapies that restore and stabilize beneficial microbial communities link ecology to public health. This group includes a number of personnel that can be found on their homepage: https://woodhamslab.com/people/
+### The Woodhams lab integrates research and education through the study of immunological ecology, symbiotic microbiota, and conservation medicine. Their goal is to effectively manage amphibian chytridiomycosis, to understand mechanisms of resilience to disease at the scales of individual, population and landscape, and to develop an amphibian model system for mucosal immunity using vaccination and microbiome manipulation. Similarly, they aim to apply ecological insight toward reducing the risk of mosquito-borne diseases. They are also interested in novel biotherapies that restore and stabilize beneficial microbial communities, linking ecology to public health. This group includes a number of personnel that can be found on their homepage: https://woodhamslab.com/people/
 
 # Boston Urban Rat Study Group (Collaborators)
 
