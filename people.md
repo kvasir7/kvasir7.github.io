@@ -12,7 +12,7 @@
 
 ![Drew Headshot](Drew_Davis_Headshot.jpg)
 
-# Boston Urban Rat Study (BURS) Group
+# Boston Urban Rat Study (BURS) Group (Collaborators)
 
 ### The Boston Urban Rat Study is a collaborative research group based in the Department of Infectious Disease and Global Health at Tufts University’s Cummings School of Veterinary Medicine. The group studies Boston’s urban rat population with a focus on the role rats play in propagating diseases that impact humans, and in turn, a broader view of the role rats have in the health and sustainability of the evolving urban ecosystem. This group includes a number of associated personnel that can be found on the their homepage:
 
