@@ -10,8 +10,6 @@
 
 ### Drew Davis is an Associate Research Scientist in the School of Earth, Environmental, and Marine Sciences at the University of Texas Rio Grande Valley. His research broadly centers on the ecology and conservation of amphibians and reptiles, primarily through understanding the distribution and diversity of species across the landscape and how stressors affect individuals and populations. To answer research questions, Drew uses emerging technologies (e.g., unmanned aerial vehicles and eDNA metabarcoding) to supplement traditional survey methodologies, laboratory experiments, and specimen-based studies using natural history collections.
 
-![Drew Headshot](Drew_Davis_Headshot.jpg)
-
 # Woodhams Lab (Collaborators)
 
 ### The Woodhams lab integrates research and education through the study of immunological ecology, symbiotic microbiota, and conservation medicine. Their goal is to effectively manage amphibian chytridiomycosis, to understand mechanisms of resilience to disease at the scales of individual, population and landscape, and to develop an amphibian model system for mucosal immunity using vaccination and microbiome manipulation. Similarly, they aim to apply ecological insight toward reducing the risk of mosquito-borne diseases. They are also interested in novel biotherapies that restore and stabilize beneficial microbial communities, linking ecology to public health. This group includes a number of personnel that can be found on their homepage: https://woodhamslab.com/people/
