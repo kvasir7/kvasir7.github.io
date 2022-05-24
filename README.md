@@ -2,14 +2,6 @@
 
 ### Check back for updates.
 
-[About](./about.md)
-
-
-[People](./people.md)
-
-
-[Projects](./projects.md)
-
 <!-- the tabs -->
 <ul class="tabs">
 	<li><a href="#">[About](./about.md)</a></li>
