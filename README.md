@@ -12,9 +12,9 @@
 
 <!-- the tabs -->
 <ul class="tabs">
-	<li><a href="#">Tab 1</a></li>
-	<li><a href="#">Tab 2</a></li>
-	<li><a href="#">Tab 3</a></li>
+	<li><a href="#">[About](./about.md)</a></li>
+	<li><a href="#">[People](./people.md)</a></li>
+	<li><a href="#">[Projects](./projects.md)</a></li>
 </ul>
  
 <!-- tab "panes" -->
