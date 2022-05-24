@@ -1,7 +1,7 @@
 
-[About](./about.md)
+## [About](./about.md)
 
-[People](./people.md)
+## [People](./people.md)
 
-[Projects](./projects.md)
+## [Projects](./projects.md)
 
