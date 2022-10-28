@@ -1,4 +1,5 @@
 
-# History of Philosophies of Biology (ISE)
+# History of Philosophy of Biology (ISE)
 
-## Syllabus link coming soon
+
+[H&P of Biology Syllabus](./)
